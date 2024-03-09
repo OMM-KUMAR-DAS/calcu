@@ -1,0 +1,27 @@
+.col-md-6{
+    margin-top: 150px !important;
+    border: 5px solid black !important;
+    box-shadow: -5px -5px 10px black,5px 5px 10px black !important;
+    border-radius: 20px !important;
+    text-align: center !important;
+}
+input[type=button]{
+width: 100%;
+background-color: rgb(142, 248, 128);
+border: 2px solid black;
+box-shadow: -2px -2px 4px black,2px 2px 4px black;
+border-radius: 5px;
+color: black;
+}
+input[type=text]{
+    width: 100%;
+    }
+.table{
+    background-color: rgba(255, 255, 255, 0);
+}
+h1{
+    font-weight: bolder !important;
+    text-decoration: dotted !important;
+    font-family: cursive;
+    font-style: italic !important;
+}
